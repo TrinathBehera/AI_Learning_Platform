@@ -1,2 +1,10 @@
 fastapi
 uvicorn
+pydantic
+SQLalchemy
+python-dotenv
+psycopg[binary]
+alembic
+pydantic-settings
+asyncpg
+sqlalchemy[asyncio]
